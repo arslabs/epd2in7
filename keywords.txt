@@ -1,0 +1,25 @@
+
+# Datatypes (KEYWORD1)
+
+bool                     KEYWORD1
+uint8_t                  KEYWORD1
+
+
+# Methods and Functions (KEYWORD2)
+
+SendCommand     KEYWORD2
+SendData          KEYWORD2
+WaitUntilIdle         KEYWORD2
+SetLut         KEYWORD2
+TransmitPartialData     KEYWORD2
+RefreshPartial          KEYWORD2
+DisplayFrame            KEYWORD2
+ClearFrame              KEYWORD2
+
+# Instances (KEYWORD2)
+
+
+# Constants (LITERAL1)
+
+false                    LITERAL1
+true                     LITERAL1
